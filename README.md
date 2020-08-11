@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### About
 Computer Engineering student at UFRGS , Porto Alegre
 
 - 🔭 I’m currently working on React
