@@ -7,4 +7,4 @@ Computer Engineering student at UFRGS , Porto Alegre
 - 📫 How to reach me: Linkedin
 
 Page: https://rafarache.github.io/website/<br/>
-Linkedin:https://www.linkedin.com/in/rafael-marques-rache-838360122/
+Linkedin: https://www.linkedin.com/in/rafael-marques-rache-838360122/
