@@ -1,12 +1,31 @@
-### Hi there, my name is Rafael 👋
+<h2>Hey 👋, I'm Rafael</h2>
 
-Computer Engineering student at UFRGS , Porto Alegre.
+<p>I'm currently an IOs software engineer at <strong><a href="https://www.nelogica.com.br/">Nelogica</a></strong> based in Porto Alegre, Brazil. I am also working at <strong><a href="https://www.facebook.com/idejr">IDEjr</a></strong>, an only students company at <strong><a href="http://www.ufrgs.br/ufrgs/inicial">UFRGS</a></strong></p>
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHjO0bQP3hS1w/company-logo_200_200/0?e=2159024400&v=beta&t=-BU4kiGOqkYaYTARJookB6IoQjfLaqnD7asUVEFb3Gc" width="30" title="hover text"> - Working at Nelogica | IOS Developer
-</br>
-<img src="https://avatars1.githubusercontent.com/u/17241356?s=200&v=4" width="30" title="hover text"> - Helping IDE jr | Web Developer
+<p><a href="https://www.linkedin.com/in/rafael-marques-rache-838360122/"><img src="https://img.shields.io/badge/-@RafaelRache-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/rafael-marques-rache-838360122/" alt="LinkedIn Badge"></a></p>
 
-<br/>Contact :<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-RafaelRache-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-marques-rache-838360122/)](https://www.linkedin.com/in/rafael-marques-rache-838360122/)
+<img align="right" src="https://petermolnar.net/article/making-things-private/what_is_my_purpose.gif" />
+
+<ul>
+<li>🔭 I’m currently writing programs for MacOS</li>
+<li>🧐 Love to learn new technologies.</li>
+<li>👨‍💻 Waiting for a new project idea.</li>
+<li>📙 Currently studying Computer Engineering.</li>
+</ul>
+
+<h2>🚀 Tools I use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://d33wubrfki0l68.cloudfront.net/3043815abc12ed4628bceeabb1a571459a777f84/5f19e/static/f422e4992c3482dce03f913e7da91751/e17e5/gatsby-png.png" alt="gatsby" width="25" height="25" />
+<img src="https://img2.gratispng.com/20180619/wfr/kisspng-swift-apple-logo-objective-c-5b28a6c3713139.5003729715293907874637.jpg" alt="swift" width="25" height="25" />
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Rafarache&show_icons=true&count_private=true" alt="Rafarache" />
 
 
