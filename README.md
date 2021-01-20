@@ -7,7 +7,7 @@
 <img align="right" src="https://petermolnar.net/article/making-things-private/what_is_my_purpose.gif" />
 
 <ul>
-<li>🔭 I’m currently writing programs for MacOS</li>
+<li>🔭 I’m currently working with Swift for MacOS and  IOs</li>
 <li>🧐 Love to learn new technologies.</li>
 <li>👨‍💻 Waiting for a new project idea.</li>
 <li>📙 Currently studying Computer Engineering.</li>
