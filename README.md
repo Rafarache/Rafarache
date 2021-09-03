@@ -7,7 +7,7 @@
 <img align="right" src="https://petermolnar.net/article/making-things-private/what_is_my_purpose.gif" />
 
 <ul>
-<li>🔭 I’m currently working with Swift for MacOS and IOs</li>
+<li>🔭 I’m currently working with Kotlin and Android</li>
 <li>🧐 Love to learn new technologies.</li>
 <li>👨‍💻 Waiting for a new project idea.</li>
 <li>📙 Currently studying Computer Engineering.</li>
