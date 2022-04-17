@@ -10,7 +10,7 @@
 <li>🔭 I’m currently working with Kotlin and Android</li>
 <li>🧐 Love to learn new technologies.</li>
 <li>👨‍💻 Waiting for a new project idea.</li>
-<li>📙 Currently studying Computer Engineering.</li>
+<li>📙 Currently studying Computer Engineering at <strong><a href="http://www.ufrgs.br/english/home">UFRGS</a></strong>.</li>
 </ul>
 
 <h2>🚀 Tools I use</h2>
