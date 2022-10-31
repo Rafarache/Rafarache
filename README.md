@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Rafael</h2>
 
-<p>I'm currently a Mobile Android software engineer at <strong><a href="https://www.nelogica.com.br/">Nelogica</a></strong> based in Porto Alegre, Brazil.</p>
+<p>I'm currently a Mobile Android software engineer based in Porto Alegre, Brazil.</p>
 
 <p><a href="https://www.linkedin.com/in/rafael-marques-rache-838360122/"><img src="https://img.shields.io/badge/-@RafaelRache-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/rafael-marques-rache-838360122/" alt="LinkedIn Badge"></a></p>
 
