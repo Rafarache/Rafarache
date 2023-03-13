@@ -22,10 +22,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" alt="mysql" width="25" height="25" /></br>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="android" width="25" height="25" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="25" height="25" />
 <img src="https://img2.gratispng.com/20180619/wfr/kisspng-swift-apple-logo-objective-c-5b28a6c3713139.5003729715293907874637.jpg" alt="swift" width="25" height="25" />
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/apple.png" alt="apple" width="25" height="25" />
 </p>
 
 
